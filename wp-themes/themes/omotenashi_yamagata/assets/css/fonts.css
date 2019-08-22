@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "HiraMinPro W3";
+    src: url("../fonts/HiraMinPro-W3.otf") format('woff');
+}
+@font-face {
+    font-family: "HiraMinPro W6";
+    src: url("../fonts/HiraMinPro-W6.otf") format('woff');
+}
+@font-face {
+    font-family: "MS Gothic";
+    src: url("../fonts/msgothic.ttc") format('ttc');
+}
+body{
+	font-family: "HiraMinPro W3";
+}
